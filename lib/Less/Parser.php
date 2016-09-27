@@ -110,13 +110,13 @@ class Less_Parser{
 
 		$this->env = new Less_Environment($options);
 
+		$this->env->Init();
+
 		//set new options
 		if( is_array($options) ){
 			$this->SetOptions(Less_Parser::$default_options);
 			$this->SetOptions($options);
 		}
-
-		$this->env->Init();
 	}
 
 	/**
