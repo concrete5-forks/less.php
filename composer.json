@@ -1,6 +1,6 @@
 {
-	"name": "oyejorge/less.php",
-	"description": "PHP port of the Javascript version of LESS http://lesscss.org",
+	"name": "concrete5/less.php",
+	"description": "Fork of Oyejorge's PHP port of the Javascript version of LESS http://lesscss.org",
 	"keywords": [ "less", "css", "php", "stylesheet", "less.js", "lesscss" ],
 	"homepage": "http://lessphp.gpeasy.com",
 	"license": "Apache-2.0",
